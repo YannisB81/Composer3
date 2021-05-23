@@ -1,0 +1,14 @@
+{
+    "name": "yannis/composer3",
+    "description": "Quete composer 3",
+    "authors": [{
+        "name": "YannisB81",
+        "email": "blondron.yannis@gmail.com"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
